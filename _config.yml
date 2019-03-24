@@ -1,6 +1,6 @@
-title: ""
-author: ""
-description: ""
+title: "Velat VURGUN"
+author: "Velat VURGUN"
+description: "A website with blog posts and pages"
 
 # Jekyll settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
